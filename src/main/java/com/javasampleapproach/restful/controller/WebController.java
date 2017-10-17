@@ -21,13 +21,13 @@ public class WebController {
 		private static final long serialVersionUID = 1L;
 
 		{
-			put(1, new Shipment(12, "2017-10-17 01:22:11", "2018-10-17 01:22:11", "red", "washington", "car", "commodity", 50.00));
-			put(2, new Shipment(3, "2017-10-17 01:22:11", "2018-10-17 01:22:11", "california", "washington", "car", "commodity", 50.00));
-			put(3, new Shipment(22, "2017-10-17 01:22:11", "2018-10-17 01:22:11", "california", "washington", "car", "commodity", 50.00));
-			put(4, new Shipment(55, "2017-10-17 01:22:11", "2018-10-17 01:22:11", "california", "washington", "car", "commodity", 50.00));
-			put(5, new Shipment(3, "2017-10-17 01:22:11", "2018-10-17 01:22:11", "california", "washington", "car", "commodity", 50.00));
-			put(6, new Shipment(1, "2017-10-17 01:22:11", "2018-10-17 01:22:11", "california", "washington", "car", "commodity", 50.00));
-			put(7, new Shipment(39, "2017-10-17 01:22:11", "2018-10-17 01:22:11", "california", "washington", "car", "commodity", 50.00));
+			put(1, new Shipment(12, "2012-04-23T18:25:43.511Z", "2012-04-23T18:25:43.511Z", "red", "washington", "car", "commodity", 50.00));
+			put(2, new Shipment(3, "2012-04-23T18:25:43.511Z", "2012-04-23T18:25:43.511Z", "california", "washington", "car", "commodity", 50.00));
+			put(3, new Shipment(22, "2012-04-23T18:25:43.511Z", "2012-04-23T18:25:43.511Z", "california", "washington", "car", "commodity", 50.00));
+			put(4, new Shipment(55, "2012-04-23T18:25:43.511Z", "2012-04-23T18:25:43.511Z", "california", "washington", "car", "commodity", 50.00));
+			put(5, new Shipment(3, "2012-04-23T18:25:43.511Z", "2012-04-23T18:25:43.511Z", "california", "washington", "car", "commodity", 50.00));
+			put(6, new Shipment(1, "2012-04-23T18:25:43.511Z", "2012-04-23T18:25:43.511Z", "california", "washington", "car", "commodity", 50.00));
+			put(7, new Shipment(39, "2012-04-23T18:25:43.511Z", "2012-04-23T18:25:43.511Z", "california", "washington", "car", "commodity", 50.00));
 		}
 	};
 
